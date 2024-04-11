@@ -3,15 +3,9 @@
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Web Development**
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 - 💬 Ask me about Java or any tech-related stuff
 
-<!-- - 📫 How to reach me: Twitter - @digichiki3 , Instagram - @digichiki3 -->
-
 - 📫 How to reach me **riturajroj1234@gmail.com**
-
 
 ## 🚀 Languages and Tools:
 
@@ -46,9 +40,6 @@
 
 <br/>
 <br/>
-<!--   <summary><b>⚡ Recent GitHub Activity </b></summary>
-  <br/>
-   <a href="https://github.com/rituraj421"><img alt="ritu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rituraj421&theme=react-dark" alt="rituraj421"</a> -->
   <br/>
 </p><br/>
 
@@ -58,8 +49,5 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/rituraj-roj-a4bba9204/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/digichiki3"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/digichiki3/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://www.linkedin.com/in/rituraj421/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
