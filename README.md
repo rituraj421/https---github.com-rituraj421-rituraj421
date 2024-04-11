@@ -26,28 +26,16 @@
 <br/>
 
 ## 📊 My Github Stats 
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rituraj421&theme=algolia" alt="rituraj421"/></p>
-
-<p> 
+<!-- <p> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/rituraj421/github-readme-stats"><img alt="ritu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituraj421&show_icons=true&count_private=true&theme=tokyonight" height="175px"/></a>
   <br/>
   </p>
-</p>
-
-<br/>
-<br/>
-  <br/>
-</p><br/>
-
-<br/>
-<br/>
-
+</p> -->
 ## Connect with me:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/rituraj421/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
